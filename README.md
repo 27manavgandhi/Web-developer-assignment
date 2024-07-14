@@ -2,16 +2,10 @@
 
 Fyle-Web-developer-Assignment
 This project is a web developer assignment It is built using HTML, CSS, and JavaScript, and leverages APIs to provide dynamic functionalities.
-
-Features:
-
-Expense Tracking: Easily add, edit, and delete expense entries.
-
-Categorization: Organize expenses into categories for better tracking.
-
-Real-Time Updates: Utilize APIs to fetch and display real-time data.
-
-Responsive Design: Accessible on various devices with an intuitive and user-friendly interface.
+![](https://github.com/user-attachments/assets/b03bd180-b48c-497a-85e5-34575403bc0b)
+![](https://github.com/user-attachments/assets/eaabbac4-d96e-44b0-a24c-3ff6b76aae74)
+![](https://github.com/user-attachments/assets/be2f79a8-95aa-4370-978d-f9aa5ad96038)
+![](https://github.com/user-attachments/assets/89dbbcb8-30f0-4797-bc8c-b0d61f48df6a)
 
 
 Technologies Used:
